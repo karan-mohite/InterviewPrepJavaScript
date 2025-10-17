@@ -49,12 +49,25 @@
 // const a=10;
 // console.log(a);
 
-{
-    let a=5;
-    console.log(a);
-}
-{
-    let a=10;
-    console.log(a);
-}
+// {
+//     let a=5;
+//     console.log(a);
+// }
+// {
+//     let a=10;
+//     console.log(a);
+// }
+// let age=24;
+// console.log(typeof(age));
+
+
+// let x=null; 
+// console.log(typeof(x));
+
+// let x=BigInt("123");
+// console.log(typeof(x));
+
+// let y=Symbol("Hello");
+// console.log(typeof(y));
+
 
