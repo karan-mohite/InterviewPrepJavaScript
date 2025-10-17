@@ -17,3 +17,9 @@ console.log(x);
 y=undefined;
 console.log(y);
 
+isFollow=false;
+console.log(isFollow);
+
+fullname1="Vishal Mohite";
+FULLname1="Abinav mohite";
+console.log(fullname1);
