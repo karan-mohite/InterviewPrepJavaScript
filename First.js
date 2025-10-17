@@ -71,14 +71,23 @@
 // console.log(typeof(y));
 
 
-const student={
-    fullName: "Karan Mohite",
-    age:20,
-    cgpa:8.2,
-    isPass:true,
-};
-console.log(student["fullName"]);
-console.log(student);  
-console.log(typeof(student));
-console.log(student["age"]);
-console.log(student.age);
+// const student={
+//     fullName: "Karan Mohite",
+//     age:20,
+//     cgpa:8.2,
+//     isPass:true,
+// };
+// console.log(student["fullName"]);
+// console.log(student);  
+// console.log(typeof(student));
+// console.log(student["age"]);
+// console.log(student.age);
+
+// student["age"]=student["age"]+1;
+// console.log(student["age"]);
+
+// student["name"]="Vishal Mohite";
+// console.log(student["name"]);
+
+
+
