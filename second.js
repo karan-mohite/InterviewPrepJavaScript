@@ -4,6 +4,8 @@ hello world on our console window
 */
 // console.log("Hello world..!!");
 
+const res = require("express/lib/response");
+
 // Artimetic operator
 
 // let a=5;
@@ -108,13 +110,47 @@ hello world on our console window
  
 // odd and even
 
-let num=10;
+// let num=10;
 
-if(num%2===0)
-{
-    console.log(num,"is Even Number..!!");
-}
-else
-{
-    console.log(num,"Odd Number..!!");
-}
+// if(num%2===0)
+// {
+//     console.log(num,"is Even Number..!!");
+// }
+// else
+// {
+//     console.log(num,"Odd Number..!!");
+// }
+
+  
+// let mode="dark";
+// let color;
+
+// if(mode==="dark")
+// {
+//     color="black";
+// }
+// else if(mode === "blue")
+// {
+//     color="blue";
+// }
+// else if(mode === "Pink")
+// {
+//     color="pink";
+// }
+// else{
+//     color="white";
+// }
+// console.log(color);
+
+// if(mode==="dark")
+// {
+//     console.log("dark");
+// }
+
+
+// Ternary Operator 
+// let age=25;
+// let result=age>=18 ?"adult":"not adult";
+// console.log(result);
+
+
