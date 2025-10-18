@@ -193,5 +193,3 @@ else if(score>=0 && score<=49)
     grade="F";
 }
 console.log("According to your score,your grade was:",grade);
-
-
