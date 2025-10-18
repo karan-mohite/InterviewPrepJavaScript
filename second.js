@@ -153,4 +153,18 @@ const res = require("express/lib/response");
 // let result=age>=18 ?"adult":"not adult";
 // console.log(result);
 
+// Practise Questions
 
+// let name =prompt("Hello");
+// console.log(name);
+
+// let num=prompt("Enter a number:");
+let num=10;
+if(num%5===0)
+{
+    console.log(num,"num is multiple of 5");
+}
+else
+{
+    console.log(num,"num is not multiple of 5");
+}
