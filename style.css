@@ -1,4 +1,13 @@
-h1{
+/* #heading{
+    color: blue;
+    background-color: yellow;
+}
+#heading2{
+    color: blue;
+    background-color: rgb(255, 115, 0);
+} */
+
+.heading{
     color: blue;
     background-color: yellow;
 }
