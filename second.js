@@ -95,3 +95,26 @@ hello world on our console window
 // }
 
 
+// let age=25;
+// if(age>=18)
+// {
+//     console.log("You can vote..!!");
+// }
+// else
+// {
+//     console.log("You cannot vote..!!");
+// }
+ 
+ 
+// odd and even
+
+let num=10;
+
+if(num%2===0)
+{
+    console.log(num,"is Even Number..!!");
+}
+else
+{
+    console.log(num,"Odd Number..!!");
+}
