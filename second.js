@@ -68,6 +68,30 @@ hello world on our console window
 // console.log("cond1 && cond2",cond1 && cond2);
 // console.log("cond1 && cond2",cond1 || cond2);
 // console.log("cond1 && cond2",!(cond1));
+ 
+// Conditional Statements
 
+// let age=18;
+// let mode="light";
+// let color;
+
+// if(mode==="dark")
+// {
+//     color ="black";
+// }
+// if(mode==="light")
+// {
+//     color ="white";
+// }
+// console.log(color);
+
+// if(age>=18)
+// {
+//     console.log("You Can Vote..!!");
+// }
+// if(age<18)
+// {
+//     console.log("You cannot vote..!!");
+// }
 
 
